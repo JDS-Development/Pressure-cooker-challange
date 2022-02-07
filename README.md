@@ -43,4 +43,8 @@ are explicitly invited to come up with alternatives.
 You are allowed to focus your solution on the period during hospitalization, the period at home or both. 
 
 
+### Our solution
+
+
+
 
