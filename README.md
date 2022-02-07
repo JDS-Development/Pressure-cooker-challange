@@ -42,5 +42,9 @@ statement. You may think broadly and are not limited to the current configuratio
 are explicitly invited to come up with alternatives.
 You are allowed to focus your solution on the period during hospitalization, the period at home or both. 
 
+### Solution
+
+Our solution to this problem is Soundify, Soundify is a web platform where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A device that can access the internet and audio output (preferably headphones). The user interface is easy to use for non-technical people.
+
 
 
