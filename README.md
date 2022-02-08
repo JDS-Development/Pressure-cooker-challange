@@ -25,13 +25,12 @@ were very positive and the VR headset is now available for all patients.
 
 ### Problem statement
 
-The problem however is that in many cases the VR headset is not applied. The main reasons are:
-- The patient has a contra indication that makes the use of the VR headset not safe (for example 
-dizziness or nausea) 
-- The patient simply dislikes the idea of putting on VR glasses (it is strange, to technical/nerdy, ...)
-- The patient feels a threshold to ask for the VR glasses because he/she sees that the nurses are 
-very busy with the other jobs (and the VR glasses are not seen as regular care but ‘an extra’). 
-Besides this, the VR headset is rather costly and therefore not available for many patients at home. 
+The problem is that not all the patients want to use a VR headset in the hospital because of these reasons:
+
+- The patient gets dizzy or nausea
+- The patient doesn't like the idea of putting a VR headset on because its strange or nerdy
+- The patient doesn't want to ask for a headset because he/she thinks the nurses are too busy
+- Lastly the VR headset costs alot of money so it's not available for all the patients at home
 
 
 ### Design challenge
