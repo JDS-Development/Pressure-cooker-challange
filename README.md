@@ -42,7 +42,7 @@ You are allowed to focus your solution on the period during hospitalization, the
 
 ### Mindmap
 
-This is a mindmap about the 2  ideas we came up with. After we brainstormed some more we made the choice to go for soundify because we thinks i nice to have something that is available at anytime.
+This is a mindmap about the 2 ideas we came up with. After we brainstormed some more we made the choice to go for soundify, because that idea is available anytime. 
 
 <img src="https://i.postimg.cc/V6p3bbxY/Mindmap.png"/>
 
@@ -54,7 +54,7 @@ For the technologies we will be using:
  
 # Solution
 
-Our solution to this problem is Soundify, Soundify is a web platform where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A device that can access the internet and audio output (preferably headphones). The user interface is easy to use for non-technical people. Also the application can be accessed from anywhere so that means at home or in the hospital.
+Our solution to this problem is Soundify, Soundify is a mobile application where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A mobile phone and audio output (preferably headphones). The user interface is easy to use for non-technical people. Also the application can be accessed from anywhere so that means at home or in the hospital.
 
 ### POC design
 
@@ -77,7 +77,6 @@ These are the designs for the official prototype on mobile. below are all the fe
 - Create a party to listen together
 
 <p align="left">
-  <img width="24%" src="https://i.postimg.cc/13ztRGB2/Prototype-design.png" />
   <img width="24%" src="https://i.postimg.cc/13ztRGB2/Prototype-design.png" />
   <img width="24%" src="https://i.postimg.cc/VvyzPTLB/song.jpg" />
   <img width="24%" src="https://i.postimg.cc/NGTgkgpN/partymobile.jpg" />
