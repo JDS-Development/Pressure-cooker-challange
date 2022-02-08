@@ -56,7 +56,7 @@ Both are cross-platform which saves a lot of time
 - Flutter
   - Developing in Dart (new leanguage to learn)
   - Greater perfomance
-  - Cross-p
+  - Cross-platform
 
 - React native
   - Easier to learn
