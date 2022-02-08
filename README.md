@@ -32,7 +32,6 @@ The problem is that not all the patients want to use a VR headset in the hospita
 - The patient doesn't want to ask for a headset because he/she thinks the nurses are too busy
 - Lastly the VR headset costs alot of money so it's not available for all the patients at home
 
-
 ### Design challenge
 
 Build a prototype of an installation or a program that aims at the same way of solving issues like pain, 
@@ -41,13 +40,46 @@ statement. You may think broadly and are not limited to the current configuratio
 are explicitly invited to come up with alternatives.
 You are allowed to focus your solution on the period during hospitalization, the period at home or both. 
 
+### Mindmap
+
+This is a mindmap about the 2 ideas we came up with. After we brainstormed some more we made the choice to go for soundify, because that idea is available anytime. 
+
+<img src="https://i.postimg.cc/V6p3bbxY/Mindmap.png"/>
+
 ### Technology's
 
 For the technologies we will be using: 
 
-- React: The reason why we will be using react is because we can make a desktop and mobile application in one go. This also saves alot of time in general for the challenge. 
+- Flutter: The reason why we will be using flutter is because we can make a good mobile (phone and tablet) application in one go. This also saves alot of time in general because this framework is cross platform. This way we can create 1 app for Android and IOS. 
+ 
+# Solution
 
-### Solution
+Our solution to this problem is Soundify, Soundify is a mobile application where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A mobile phone and audio output (preferably headphones). The user interface is easy to use for non-technical people. Also the application can be accessed from anywhere so that means at home or in the hospital.
 
-Our solution to this problem is Soundify, Soundify is a web platform where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A device that can access the internet and audio output (preferably headphones). The user interface is easy to use for non-technical people.
+### POC design
+
+This is the first design we made regarding the poc. The design is made for a tablet and shows the ideas we have for the application. 
+
+<p align="left">
+  <img width="49%" src="https://i.postimg.cc/Qdc0YDgX/POC-menu.png" />
+  <img width="49%" src="https://i.postimg.cc/Bt9228V2/POC-dashboard.png" />
+  <img width="49%" src="https://i.postimg.cc/J42BH7np/Party.png" />
+  <img width="49%" src="https://i.postimg.cc/76wCrfsZ/Party2.png" />
+</p>
+
+### Prototype design
+
+These are the designs for the official prototype on mobile. below are all the features:
+
+- Listen to music
+- Listen to audio books
+- Listen to podcasts
+- Create a party to listen together
+
+<p align="left">
+  <img width="24%" src="https://i.postimg.cc/13ztRGB2/Prototype-design.png" />
+  <img width="24%" src="https://i.postimg.cc/VvyzPTLB/song.jpg" />
+  <img width="24%" src="https://i.postimg.cc/NGTgkgpN/partymobile.jpg" />
+</p>
+
 
