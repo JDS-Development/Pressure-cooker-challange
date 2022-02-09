@@ -66,7 +66,7 @@ Both are cross-platform which saves a lot of time
  
 # Solution
 
-Our solution to this problem is Soundify, Soundify is a mobile application where users can listen to music, podcasts and audiobooks. For this solution there are only a few things needed. A mobile phone and audio output (preferably headphones). The user interface is easy to use for non-technical people. Also the application can be accessed from anywhere so that means at home or in the hospital.
+Our solution to this problem is Soundify, Soundify is a mobile application where users can listen to music, podcasts and audiobooks.There is also a possibility to listen to music together and chatting! For this solution there are only a few things needed. A mobile phone and audio output (preferably headphones). The user interface is easy to use for non-technical people. Also the application can be accessed from anywhere so that means at home or in the hospital.
 
 ### POC design
 
@@ -87,11 +87,11 @@ These are the designs for the official prototype on mobile. below are all the fe
 - Listen to audio books
 - Listen to podcasts
 - Create a party to listen together
+- Chat with party
 
 <p align="left">
   <img width="24%" src="https://i.postimg.cc/13ztRGB2/Prototype-design.png" />
   <img width="24%" src="https://i.postimg.cc/VvyzPTLB/song.jpg" />
   <img width="24%" src="https://i.postimg.cc/NGTgkgpN/partymobile.jpg" />
+  <img width="24%" src="https://i.postimg.cc/Dzq8fNw6/chat.png" />
 </p>
-
-
