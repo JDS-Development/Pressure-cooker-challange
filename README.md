@@ -82,4 +82,5 @@ These are the designs for the official prototype on mobile. below are all the fe
   <img width="24%" src="https://i.postimg.cc/NGTgkgpN/partymobile.jpg" />
 </p>
 
+[Figma designs](https://www.figma.com/file/ScorYRLG5KNxTGcuamsS97/Untitled?node-id=10%3A2)
 
