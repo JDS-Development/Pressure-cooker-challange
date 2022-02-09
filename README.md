@@ -50,7 +50,19 @@ This is a mindmap about the 2 ideas we came up with. After we brainstormed some 
 
 For the technologies we will be using: 
 
-- Flutter: The reason why we will be using flutter is because we can make a good mobile (phone and tablet) application in one go. This also saves alot of time in general because this framework is cross platform. This way we can create 1 app for Android and IOS. 
+Flutter or React native
+
+Both are cross-platform which saves a lot of time
+- Flutter
+  - Developing in Dart (new leanguage to learn)
+  - Greater perfomance
+  - Cross-platform
+
+- React native
+  - Easier to learn
+  - Takes less time to program
+  - Is used by big companies
+  - Developing in JavaScript (already have some knowledge)
  
 # Solution
 
