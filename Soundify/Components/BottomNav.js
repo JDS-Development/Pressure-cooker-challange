@@ -15,6 +15,7 @@ const BottomNav = () => {
     { key: "music", title: "Music" },
     { key: "podcast", title: "Podcast" },
     { key: "audiobook", title: "AudioBook" },
+    { key: "party", title: "Party" },
   ]);
 
   const renderScene = ({ route, jumpTo }) => {
@@ -27,6 +28,8 @@ const BottomNav = () => {
         return <PodcastRoute jumpTo={jumpTo} />;
       case "audiobook":
         return <AudioBookRoute jumpTo={jumpTo} />;
+      case "party":
+        return <Party jumpTo={Party} />;
     }
   };
 
