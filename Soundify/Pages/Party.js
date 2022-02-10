@@ -76,13 +76,14 @@ else{
                     ]}
                     renderItem={({item}) => <Text style={styles.item}> {item.key} </Text>}
                 />
-                <Button
-                    title="Leave party"
-                    onPress={partySet}
-                />
+
             </View>
             <View style={{ flex: 2}} >
-            <Text>Party code: WSUJNF</Text>
+                <Text>Party code: WSUJNF</Text>
+                <Button
+                        title="Leave party"
+                        onPress={partySet}
+                />
             </View>
     
           
