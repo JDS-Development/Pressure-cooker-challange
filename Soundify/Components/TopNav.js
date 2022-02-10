@@ -14,8 +14,8 @@ const styles = StyleSheet.create({
   },
   appBarTitle: {
     fontSize: 24,
-    color: "#ffff"
-  }
+    color: "#ffff",
+  },
 });
 
 export default TopNav;
