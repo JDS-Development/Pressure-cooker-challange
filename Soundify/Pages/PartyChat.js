@@ -24,7 +24,7 @@ export default function PartyChat() {
             />
           </View>
 
-        <View style={{ flex: 1, backgroundColor: 'red', justifyContent: 'flex-end' }}>
+        <View style={{ flex: 1, justifyContent: 'flex-end' }}>
           <TextInput
             label="Chat here..."
             value={text}
