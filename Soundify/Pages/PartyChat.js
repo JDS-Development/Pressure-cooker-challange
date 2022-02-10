@@ -25,7 +25,7 @@ export default function PartyChat() {
             />
           </View>
 
-        <View style={{ flex: 1, justifyContent: 'flex-end' }}>
+        <View style={{ flex: 1, justifyContent: 'flex-end', flexDirection: 'row' }}>
           <TextInput
             label="Chat here..."
             value={text}
@@ -36,6 +36,7 @@ export default function PartyChat() {
               }
             }}
           />
+          <Button title="->" onPress={onEnter}/>
         </View>
       <StatusBar style="auto" />
     </View>
