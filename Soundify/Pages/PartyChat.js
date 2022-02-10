@@ -12,6 +12,7 @@ export default function PartyChat() {
 
   const onEnter = () => {
     setChat([...chat, text])
+    setText('')
   }
 
 
