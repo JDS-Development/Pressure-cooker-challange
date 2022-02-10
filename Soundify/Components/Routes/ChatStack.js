@@ -6,6 +6,9 @@ import PartyChat from '../../Pages/PartyChat';
 const screens = {
     PartySession: {
     screen: PartySession,
+    navigationOptions: {
+        headerShown: false,
+    }
   },
   PartyChat: {
     screen: PartyChat,
