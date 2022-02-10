@@ -1,6 +1,7 @@
 import * as React from "react";
 import { BottomNavigation, Text } from "react-native-paper";
 import Home from "../Pages/Home";
+import Media_player from "../Pages/Media_player";
 import Party from "../Pages/Party";
 
 const MusicRoute = () => <Text>Music</Text>;
@@ -24,7 +25,7 @@ const BottomNav = () => {
       case "home":
         return <Home jumpTo={Home} />;
       case "music":
-        return <MusicRoute jumpTo={jumpTo} />;
+        return <Media_player jumpTo={Media_player} />;
       case "podcast":
         return <PodcastRoute jumpTo={jumpTo} />;
       case "audiobook":
@@ -40,6 +41,7 @@ const BottomNav = () => {
       onIndexChange={setIndex}
       renderScene={renderScene}
       shifting={false}
+      barStyle={{ backgroundColor: '#7198FF' }}
     />
   );
 };
